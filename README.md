@@ -1,4 +1,4 @@
-# Lisk-harddat Assignment 
+# Lisk Assignment 
 # Smart Contract Development Environments Comparison
 
 ## Hardhat vs. Foundry: A Comprehensive Comparison
